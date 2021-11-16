@@ -1,0 +1,1 @@
+This project takes a look at ecommerce data trends for the purpose of sales forecasting.
